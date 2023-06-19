@@ -1,0 +1,4 @@
+﻿  E2 - TAREA 11 - AED.cpp
+E:\VISUAL STUDIO CODE\AED\E2 - TAREA 11 - AED\E2 - TAREA 11 - AED\E2 - TAREA 11 - AED.cpp(121,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\VISUAL STUDIO CODE\AED\E2 - TAREA 11 - AED\E2 - TAREA 11 - AED\E2 - TAREA 11 - AED.cpp(276): warning C4715: 'Supermercado::ColaMasChica': no todas las rutas de acceso de control devuelven un valor
+  E2 - TAREA 11 - AED.vcxproj -> E:\VISUAL STUDIO CODE\AED\E2 - TAREA 11 - AED\x64\Debug\E2 - TAREA 11 - AED.exe

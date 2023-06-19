@@ -1,0 +1,4 @@
+﻿  ARBOL 3 - TAREA 13 - AED.cpp
+E:\VISUAL STUDIO CODE\AED\ARBOL 3 - TAREA 13 - AED\ARBOL 3 - TAREA 13 - AED\ARBOL 3 - TAREA 13 - AED.cpp(172,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\VISUAL STUDIO CODE\AED\ARBOL 3 - TAREA 13 - AED\ARBOL 3 - TAREA 13 - AED\ARBOL 3 - TAREA 13 - AED.cpp(41): warning C4715: 'NodeTree::ActualizarAltura': no todas las rutas de acceso de control devuelven un valor
+  ARBOL 3 - TAREA 13 - AED.vcxproj -> E:\VISUAL STUDIO CODE\AED\ARBOL 3 - TAREA 13 - AED\x64\Debug\ARBOL 3 - TAREA 13 - AED.exe

@@ -1,3 +1,2 @@
 # UBP
-Trabajos relacionados a la facultad.
-Cada uno de forma ordenada en su respectiva materia.
+Trabajos se encuentran en sus respectivas materias.
